@@ -1,0 +1,7 @@
+pillow
+pytesseract
+pynput
+pyautogui
+beepy
+pycaw
+comtypes
